@@ -12,4 +12,3 @@ public sealed class WorkItem
 
     public WorkItemStatus Status { get; init; }
 }
-

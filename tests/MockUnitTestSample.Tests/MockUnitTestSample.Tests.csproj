@@ -24,4 +24,3 @@
     <ProjectReference Include="../../src/MockUnitTestSample/MockUnitTestSample.csproj" />
   </ItemGroup>
 </Project>
-

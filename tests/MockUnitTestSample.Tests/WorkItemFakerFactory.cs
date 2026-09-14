@@ -16,4 +16,3 @@ public static class WorkItemFakerFactory
             .RuleFor(item => item.Status, WorkItemStatus.InProgress);
     }
 }
-

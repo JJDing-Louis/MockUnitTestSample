@@ -6,4 +6,3 @@ public enum WorkItemStatus
     InProgress,
     Completed
 }
-

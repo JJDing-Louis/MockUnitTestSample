@@ -39,4 +39,3 @@ dotnet test MockUnitTestSample.slnx --configuration Release
 - Bogus：按照規則產生測試資料。
 
 本專案使用 MIT License。Fluent Assertions 7.2.2 採 Apache 2.0 License；若改用 8.x 以上版本，請先確認使用情境是否符合新版授權條款。
-

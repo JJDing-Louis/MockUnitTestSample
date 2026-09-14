@@ -7,4 +7,3 @@ public interface INotificationService
         string workItemTitle,
         DateOnly dueDate);
 }
-
